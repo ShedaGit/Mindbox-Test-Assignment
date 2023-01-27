@@ -1,4 +1,4 @@
-# There is my implementation on a few issues
+# There is my implementation on a Mindbox test items
 
 ## Write a C# library
 
