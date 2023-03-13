@@ -1,10 +1,12 @@
-# There is my implementation on a Mindbox test items
+# Here is my implementation of Mindbox's test assignments.
 
-## Write a C# library
+## Assignments:
+
+###Write a C# library
 
 Write a C# library for delivery to external clients that can calculate the area of a circle from its radius and a triangle from three sides.
 
-### Opptional
+#### Opptional
 
 1) Unit tests;
 
@@ -14,7 +16,7 @@ Write a C# library for delivery to external clients that can calculate the area 
 
 4) Checking if the triangle is right-angled.
 
-## Write an SQL query
+### Write an SQL query
 
 MS SQL Server database has products and categories. One product can have many categories, and one category can have many products. Write an SQL query to select all pairs of "Product Name - Category Name". If a product has no categories, then its name should still be displayed.
 
